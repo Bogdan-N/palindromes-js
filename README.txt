@@ -24,6 +24,7 @@ You should include the file with styles in your project for display the longest 
 Test description.
 For testing was used the QUnit library-1.21.0
 For testing was chosen searchPalindromes methods.
-Function accepts string as parameter. This function was checked on different types of inputting string like empty string or string with whitespace (before and after string). 
+Function accepts string as parameter. This function was checked on different types of inputting string 
+like empty string or string with whitespace (before and after string). 
 
 Results of testing you can see in 'test' folder => testResult.html
